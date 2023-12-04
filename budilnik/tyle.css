@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif; }
+  #time {
+    font-size: 36px;
+  }
+  .top{
+    margin-top: 150px;
+  }
+  #alarmTime {
+    margin-top: 20px
+  }
+  #alarmSet{
+    border-radius: 50px;
+    margin-top: 20px;
+  }
+  .start{
+    padding-top: 20px;
+     }
+     .stop{
+        padding-top: 10px;
+         }

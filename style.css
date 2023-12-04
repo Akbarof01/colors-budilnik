@@ -1,0 +1,26 @@
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 200px;
+    padding-left: 30px;
+}
+.foter{
+    padding-left: 470px; 
+    padding-top: 10px; 
+}
+#interval{
+    border-radius: 20px;
+}
+#color1{
+    border-radius: 50px;
+}
+#color2{
+    border-radius: 50px;
+}
+#color3{
+    border-radius: 50px;
+}
+.Started{
+    border-radius: 50px;
+}

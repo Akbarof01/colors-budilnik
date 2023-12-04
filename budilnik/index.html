@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./tyle.css">
+    <link rel="website icon" type="avif"
+    href="./budilnik.avif">
+    <title>BUDILNIK</title>
+</head>
+<body>
+    <div class="top">
+    <h1>таймер</h1>
+    <div id="time"></div>
+    <div>
+      <div class="head">
+      <label for="alarmSet">часы:</label>
+      <input type="time" id="alarmSet">
+    </div>
+    <div class="start">
+      <button onclick="setAlarm()">старт</button>
+    </div>
+    <div class="stop">
+      <button onclick="clearAlarm()">стоп</button>
+    </div>
+    </div>
+    <div id="alarmTime"></div>
+</div>
+    <script src="./main.js"></script>
+</body>
+</html>
